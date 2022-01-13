@@ -30,11 +30,32 @@ drawings:
 
 # 新鲜资讯
 
+<v-click>
+
 - [2021 Node.js 开发者报告](https://nodersurvey.github.io/reporters/)
+
+</v-click>
+
+<v-click>
+
 - [2022前端，推荐7款值得深入学习的“👑新贵前端库”!](https://juejin.cn/post/7051598110316822542)
+
+</v-click>
+<v-click>
+
 - [2021 JavaScript 新星](https://risingstars.js.org/2021/en)
+
+</v-click>
+<v-click>
+
 - [Web3.0是什么，为什么MetaVerse这么火？](https://mp.weixin.qq.com/s/mif_lVHK0P6voUFzmgsmUA)
+
+</v-click>
+<v-click>
+
 - [2021年挖矿木马趋势报告](https://juejin.cn/post/7052189036219203597)
+
+</v-click>
 
 ---
 
