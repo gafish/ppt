@@ -28,6 +28,12 @@ drawings:
 
 ---
 
+# Object.getOwnPropertyDescriptors()
+
+[open](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptors)
+
+---
+
 # 数据结构与算法图解
 
 <img src="/images/p1.jpg" class="h-100 rounded shadow" />
