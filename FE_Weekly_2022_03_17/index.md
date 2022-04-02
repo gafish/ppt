@@ -36,7 +36,7 @@ drawings:
 
 # 数据结构与算法图解
 
-<img src="/images/p1.jpg" class="h-100 rounded shadow" />
+<img src="FE_Weekly_2022_03_17/images/p1.jpg" class="h-100 rounded shadow" />
 
 ---
 

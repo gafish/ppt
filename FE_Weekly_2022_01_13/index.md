@@ -61,7 +61,7 @@ drawings:
 
 # 分享: 《黑客与画家》 
 
-<img src="/images/p1.jpeg" class="text-center h-80 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p1.jpeg" class="text-center h-80 rounded shadow" />
 
 ---
 
@@ -69,7 +69,7 @@ drawings:
 
 英語：Paul Graham，1964年11月13日－
 
-<img src="/images/p2.jpeg" class="text-center h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p2.jpeg" class="text-center h-50 rounded shadow" />
 
 <p v-click>美国著名程序员、风险投资家、博客作者和技术作家。他以 Lisp 方面的工作而知名，也是最早的Web应用Viaweb的创办者之一，后来被雅虎以美金5千万美元收购，成为Yahoo! Store。</p>
 
@@ -79,7 +79,7 @@ drawings:
 
 # 什么是黑客
 
-<img src="/images/p5.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p5.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 1946年，第一台电子计算机ENIAC在美国诞生，从此世界上一些最聪明、最有创造力的人开始进入这个行业，在他们身上逐渐地形成了一种独特的技术文化。在这种文化的发展过程中，涌现了很多行话。
@@ -94,8 +94,8 @@ drawings:
 # 黑客的特点
 
 <div style="display: flex;">
-  <img src="/images/p5.jpeg" class="h-50 rounded shadow" />
-  <img src="/images/p6.jpeg" class="ml-5 h-50 rounded shadow" />
+  <img src="FE_Weekly_2022_01_13/images/p5.jpeg" class="h-50 rounded shadow" />
+  <img src="FE_Weekly_2022_01_13/images/p6.jpeg" class="ml-5 h-50 rounded shadow" />
 </div>
 
 <v-click>
@@ -113,8 +113,8 @@ drawings:
 # 黑客与画家
 
 <div style="display: flex;">
-  <img src="/images/p5.jpeg" class="h-50 rounded shadow" />
-  <img src="/images/p4.png" class="ml-5 h-50 rounded shadow" />
+  <img src="FE_Weekly_2022_01_13/images/p5.jpeg" class="h-50 rounded shadow" />
+  <img src="FE_Weekly_2022_01_13/images/p4.png" class="ml-5 h-50 rounded shadow" />
 </div>
 
 <v-click>
@@ -127,7 +127,7 @@ drawings:
 
 # 打草稿
 
-<img src="/images/p7.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p7.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 读计算机系研究生期间，保罗·格雷厄姆觉得自己应该多学一点理论，不应该期末考试结束还不到三个星期，就把所有东西忘得一干二净，但后来他意识到自己错了，黑客搞懂 计算理论 的必要性，与画家搞懂颜料化学成分的必要性差不多大。
@@ -141,7 +141,7 @@ drawings:
 
 # 程序员 = 技工 ?
 
-<img src="/images/p8.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p8.jpeg" class="h-50 rounded shadow" />
 
 <v-click>
 
@@ -155,7 +155,7 @@ drawings:
 
 # 黑客如何做自己喜欢的事情
 
-<img src="/images/p9.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p9.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 解决方法：找一个养家糊口的白天工作(Day Job)，白天工作的意思是，你有一份为了赚钱的工作，还有一份为了爱好的工作。开源软件的这种工作模式可能就是正确的模式。
@@ -169,7 +169,7 @@ drawings:
 
 # 从画家学习绘画看黑客学习编程
 
-<img src="/images/p11.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p11.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 画家学习绘画的主要方式就是动手去画，黑客学习编程的方法与应该如此。大多数黑客不是通过大学课程学会编程的，他们从实践中学习，如果你把画家的作品按照时间顺序排列，就会发现每幅画所用的技巧，都是建立在上一幅作品学到的东西之上，大多数创作者都是这样学习和工作的。
@@ -183,7 +183,7 @@ drawings:
 
 # 源代码
 
-<img src="/images/p12.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p12.jpeg" class="h-50 rounded shadow" />
 
 <v-click>
 
@@ -195,7 +195,7 @@ drawings:
 
 # 绘画的过程
 
-<img src="/images/p10.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p10.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 一幅画是逐步完成的，通过一开始是一张草图，然后再逐步填入细节，有时原先的构想错了，你必须动手修改，无数古代的油画放在X光下检视都能看到修改的痕迹。
@@ -209,7 +209,7 @@ drawings:
 
 # 工作的心理周期
 
-<img src="/images/p13.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p13.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 画家工作起来是有心理周期的，有时候你愿意为一个灵感工作16个小时，等过了一阵，你又会觉得百无聊赖，对所有事情提不起兴趣。
@@ -223,7 +223,7 @@ drawings:
 
 # 合作
 
-<img src="/images/p14.jpeg" class="h-50 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p14.jpeg" class="h-50 rounded shadow" />
 
 <p v-click>
 历史上许多伟大的绘画作品都是多人一直合作的结果，通常来说，大师负责画主要人物，助手们负责画次要人物和背景。
@@ -237,7 +237,7 @@ drawings:
 
 # 换位思考
 
-<img src="/images/p15.jpeg" class="h-40 rounded shadow" />
+<img src="FE_Weekly_2022_01_13/images/p15.jpeg" class="h-40 rounded shadow" />
 
 <p v-click>
 普通黑客与优秀黑客的所有区别之中，会不会换位思考可能是最重要的单个因素，判断一个人是否具备换位思考能力的一个好办法，就是看他怎样向没有技术背景的人解释技术问题。软件的部分功能就是解释自身，为了写出优秀的软件，你必须假定用户对你的软件基本上一无所知，所有软件的使用方式最好能符合用户的直觉，别指望用户去读使用手册。

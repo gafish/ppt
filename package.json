@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "FE_Weekly_2022_01_13": "slidev FE_Weekly_2022_01_13/index --open",
+    "FE_Weekly_2022_03_10": "slidev FE_Weekly_2022_03_10/index --open",
+    "FE_Weekly_2022_03_17": "slidev FE_Weekly_2022_03_17/index --open",
+    "FE_Monthly_2022_04_07": "slidev FE_Monthly_2022_04_07/index --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.27.20",
+    "@slidev/theme-bricks": "^0.0.2",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "my_ppt"
+}
